@@ -4,7 +4,7 @@ This project demonstrates a simple Retrieval-Augmented Generation (RAG) applicat
 
 ---
 
-## 🛠 Requirements
+##  Requirements
 
 Install the required Python packages using:
 
